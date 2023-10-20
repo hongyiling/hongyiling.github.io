@@ -1,0 +1,25 @@
+experiences:
+
+- place: "Texas A&M University"
+  time: "Aug 2019 - now"
+  title: "Ph.D. Student"
+  subtitle: "Advisor: <a href='http://people.tamu.edu/~sji/'>Prof. Shuiwang Ji</a> <br/> Computer Science & Engineering"
+  category: "school"
+  
+- place: "University of California San Diego"
+  time: "Sep 2019 - Jun 2021"
+  title: "M.S. Student"
+  category: "school"
+    
+- place: "Amazon Web Services"
+  time: "Summer 2020"
+  title: "Software Development Engineer Intern"
+  category: "work"
+  
+- place: "Nanjing University"
+  time: "Sep 2015 - Jun 2019"
+  title: "B.S. Student"
+  subtitle: "Advisor: <a href='https://wanglimin.github.io/'>Prof. Limin Wang</a> <br/> Computer Science and Technology"
+  category: "school"
+  
+

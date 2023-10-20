@@ -1,0 +1,50 @@
+papers:
+
+  - title: "Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems"
+    authors: "Xuan Zhang*, Limei Wang*, Jacob Helwig*, Youzhi Luo*, Cong Fu*, Yaochen Xie*, Meng Liu, Yuchao Lin, Zhao Xu, Keqiang Yan, Keir Adams, Maurice Weiler, Xiner Li, Tianfan Fu, Yucheng Wang, Haiyang Yu, YuQing Xie, Xiang Fu, Alex Strasser, Shenglong Xu, Yi Liu, Yuanqi Du, Alexandra Saxton, <b>Hongyi Ling</b>, Hannah Lawrence, Hannes Stärk, Shurui Gui, Carl Edwards, Nicholas Gao, Adriana Ladera, Tailin Wu, Elyssa F. Hofgard, Aria Mansouri Tehrani, Rui Wang, Ameya Daigavane, Montgomery Bohde, Jerry Kurtin, Qian Huang, Tuong Phung, Minkai Xu, Chaitanya K. Joshi, Simon V. Mathis, Kamyar Azizzadenesheli, Ada Fang, Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W. Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, Shuiwang Ji"
+    paper_pdf: "https://arxiv.org/abs/2307.08423"
+    code: "https://github.com/divelab/AIRS"
+    img: "/assets/imgs/AIRS.png"
+    selected: y
+    year: "preprint"
+
+  - title: "Graph Mixup with Soft Alignments"
+    authors: "<b>Hongyi Ling</b>, Zhimeng Jiang, Meng Liu, Shuiwang Ji**, Na Zou**"
+    venue: "International Conference on Machine Learning (<b>ICML</b>), 2023"
+    paper_pdf: "https://proceedings.mlr.press/v202/ling23a/ling23a.pdf"
+    code: "https://github.com/divelab/DIG/"
+    img: "/assets/imgs/S-Mixup.pdf"
+    selected: y
+    year: "2023"
+
+  - title: "Learning Fair Graph Representations via Automated Data Augmentations"
+    authors: "<b>Hongyi Ling</b>, Zhimeng Jiang, Youzhi Luo, Shuiwang Ji**, Na Zou**"
+    venue: "International Conference on Learning Representations (<b>ICLR</b>), 2023"
+    paper_pdf: "https://openreview.net/forum?id=1_OGWcP1s9w"
+    code: "https://github.com/divelab/DIG/"
+    img: "/assets/imgs/graphair.png"
+    selected: y
+    note: "<b style='color:red !important;'>Spotlight/Notable-top-25%</b> (8.0% acceptance rate)"
+    year: "2023"
+
+  - title: "Lattice Convolutional Networks for Learning Ground States of Quantum Many-Body Systems"
+    authors: "Cong Fu*, Xuan Zhang*, Huixin Zhang, <b>Hongyi Ling</b>, Shenglong Xu, Shuiwang Ji"
+    paper_pdf: "https://arxiv.org/pdf/2206.07370.pdf"
+    img: "/assets/imgs/lcn.png"
+    selected: y
+    year: "preprint"
+
+
+
+  
+    
+
+    
+
+    
+
+    
+    
+    
+
+

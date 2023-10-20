@@ -1,0 +1,45 @@
+news:
+
+
+# - title: "<a href='https://gitlab.com/LMSAL_HUB/aia_hub/aiapy'>aiapy</a> is now citeable! <b>available at <a href='https://zenodo.org/record/4016983#.X1gmHGdKhMN'>Zenodo</a></b>"
+#  date: "09/2020"
+
+- title: "Our paper <a href='https://proceedings.mlr.press/v202/ling23a/ling23a.pdf'>Graph Mixup with Soft Alignments</a> has been accepted to <b>ICML 2023</b>."
+  date: "4/2023"
+
+- title: "Our paper <a href='https://openreview.net/forum?id=1_OGWcP1s9w'>Learning Fair Graph Representations via Automated Data Augmentations</a> has been accepted to <b>ICLR 2023</b> as a <b>Spotlight</b>."
+  date: "1/2023"
+
+# - title: "I was recognized as an outstanding reviewer and served as a session chair at ICML2022."
+#   date: "7/2022"
+
+# - title: "Our paper <a href='https://arxiv.org/abs/2204.09410'>Generating 3D Molecules for Target Protein Binding</a> has been accepted to <b>ICML 2022</b> as a <b>Long Presentation</b>."
+#   date: "5/2022"
+  
+# - title: "Our paper <a href='https://mengliu1998.github.io'>GraphFM: Improving Large-Scale GNN Training via Feature Momentum</a> has been accepted to <b>ICML 2022</b>."
+#   date: "5/2022"
+
+# - title: "Our paper <a href='https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac112/6531963'>Advanced Graph and Sequence Neural Networks for Molecular Property Prediction and Drug Discovery</a> has been accepted to <b>Bioinformatics</b>."
+#   date: "2/2022"
+
+# - title: "Our paper <a href='https://openreview.net/forum?id=givsRXsOt9r'>Spherical Message Passing for 3D Molecular Graphs</a> has been accepted to <b>ICLR 2022</b>."
+#   date: "1/2022"
+  
+# - title: "Our paper <a href='https://mengliu1998.github.io'>Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences</a> has been accepted to <b>SDM 2022</b>."
+#   date: "12/2021"
+
+# - title: "Our paper <a href='https://ieeexplore.ieee.org/document/9645300'>Non-Local Graph Neural Networks</a> has been accepted to <b>TPAMI</b>."
+#   date: "12/2021"
+
+# - title: "Our paper <a href='https://jmlr.org/papers/v22/21-0343.html'>DIG: A Turnkey Library for Diving into Graph Deep Learning Research</a> has been accepted to <b>JMLR</b>."
+#   date: "09/2021"
+
+# - title: "We won a Runner-up award of <a href='https://ogb.stanford.edu/kddcup2021/'>KDD Cup on Open Graph Benchmark Large-Scale Challenge (OGB-LSC)</a>. More details are in <a href='https://arxiv.org/abs/2106.08551'>Fast Quantum Property Prediction via Deeper 2D and 3D Graph Networks</a>."
+#   date: "06/2021"
+
+# - title: "Our paper <a href='https://arxiv.org/abs/2102.00546'>GraphEBM: Molecular Graph Generation with Energy-Based Models</a> has been accepted to EBM Workshop at ICLR2021!"
+#   date: "04/2021"
+  
+# - title: "Our python library <a href='https://github.com/divelab/DIG'>DIG: Dive into Graphs</a> is released! DIG provides a unified testbed for advanced graph deep learning tasks, such as graph generation, self-supervised learning, explainability, and 3D graphs."
+#   date: "03/2021"
+
